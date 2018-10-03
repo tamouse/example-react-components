@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DebouncedInput renders the DebouncedInput component 1`] = `
+<input
+  onBlur={[Function]}
+  onChange={[Function]}
+  onKeyUp={[Function]}
+/>
+`;
